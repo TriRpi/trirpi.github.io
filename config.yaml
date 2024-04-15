@@ -65,7 +65,7 @@ params:
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: true
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
-  hiddenPostSummaryInHomePage: true
+  hiddenPostSummaryInHomePage: false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
   copyright: '' 
 
