@@ -93,6 +93,7 @@ Create a `launch.json` file in the `.vscode` folder and add the following:
         }
     ]
 }
+```
 
 Now upon pressing `F5`, the plugin will be compiled and the plugin host will be launched. In the plugin host you can load the plugin from the `build/AudioPluginExample_artefacts/` directory. Play around in the plugin host and once you have a setup that you like, you can save the PluginHost status in a `.filtergraph` file that will automatically be used when relaunching the plugin host.
 
